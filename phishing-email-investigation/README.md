@@ -9,7 +9,22 @@
 | **Tools** | Gmail, Email Header Analysis, SPF/DKIM/DMARC Validation, VirusTotall |
 
 ---
+## Table of Contents
 
+- [Objective](#objective)
+- [Evidence Preservation](#evidence-preservation)
+- [Claimed Sender Analysis](#claimed-sender-analysis)
+- [Delivery Path Verification](#delivery-path-verification)
+- [SPF Validation](#spf-validation)
+- [DKIM Validation](#dkim-validation)
+- [DMARC Evaluation](#dmarc-evaluation)
+- [Phishing Content Indicators](#phishing-content-indicators)
+- [URL Inspection](#url-inspection)
+- [Domain Correlation](#domain-correlation)
+- [Timeline Validation](#timeline-validation)
+- [Authentication Summary](#authentication-summary)
+- [Conclusion](#conclusion)
+- [Skills Learned](#skills-learned)
 ## Objective
 
 Authenticate a suspicious email by examining message headers, sender identity, mail routing path, SPF, DKIM, DMARC, embedded URLs, and overall phishing indicators.
