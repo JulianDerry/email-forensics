@@ -2,7 +2,7 @@
 
 | Field | Value |
 |---|---|
-| **Case Reference** |DFIR-2026-EMAIL-001  |
+| **Case Reference** | DFIR-2026-EMAIL-001 |
 | **Analyst** | Julian Derry |
 | **Date of Analysis** | ‎August 14, 2026 |
 | **Evidence Source:** | Suspicious email delivered to `xxxxxx@gmail.com` |
