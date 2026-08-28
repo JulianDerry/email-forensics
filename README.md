@@ -91,6 +91,4 @@ Portfolio material does not represent confidential client evidence.
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/julianderry/)
-- [X](https://x.com/JulianDerry/)
-- Email
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-derry-936271312/) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CyberSamuraiDev)
